@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franklin Ramirez Almanzar</h1>
 <h3 align="center">A passionate Data Analyst from the Dominican Republic (Platano POWER)</h3>
 
-- 🔭 Who I am **Analytic, focused, process and result oriented, attention to detail, team worker, and highly adaptable to changing and stressful conditions, are some of the aptitudes that define me as an Engineer, Data Analyst, and as a professional overall. DATA ANALYST | BUSINESS INTELLIGENCE | DEVELOPER • Microsoft Excel (Power Query - Power Pivot - DAX) • Power BI • SQL • Google Data Studio**
+- 🔭 **Analytic, focused, process and result oriented, attention to detail, team worker, and highly adaptable to changing and stressful conditions, are some of the aptitudes that define me as an Engineer, Data Analyst, and as a professional overall. DATA ANALYST | BUSINESS INTELLIGENCE | DEVELOPER • Microsoft Excel (Power Query - Power Pivot - DAX) • Power BI • SQL • Google Data Studio**
 
 - 🌱 I’m currently learning **Python (Pandas,Numpy and matplotlib)**
 
