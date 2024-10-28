@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **franklinradj@gmail.com**
 
+- You can see my query-solving abilities at https://platform.stratascratch.com/user/Franklinyura.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/franklin-ramirez-almanzar-725423127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franklin ramirez almanzar" height="30" width="40" /></a>
